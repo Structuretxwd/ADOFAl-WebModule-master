@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Script -->
+    <script src="./analyzeSong.js?v=11" defer></script>
+    <script src="./mapGenerator.js?v=11" type="module"></script>
+
+    <title>ADOFAI Map Generator</title>
+</head>
+<body>
+    <fieldset style="user-select: none; width: 90vw;">
+        <legend style="font-size: 2em; font-weight: bold;">Input</legend>
+        <input id="audio_file" type="file" accept="audio/*" onchange="audioAccepted(this.files[0], this)"/>
+        <form id="configWarper">
+            <label for="analyzeTick" style="font-weight: bold;">Analyze Tick (sec)</label>
+            <input type="number" name="analyzeTick" value="0.03" step="0.01" min="0.01">
+            <label style="color: #8008;">Decrease this to put more beat [0.01 ~ ]</label>
+            <br>
+            <label for="minimumDifference" style="font-weight: bold;">Minimum difference</label>
+            <input type="number" name="minimumDifference" value="0.1" step="0.01" max="0.3" min="0">
+            <label style="color: #8008;">Increase this to delete wrong beat [0 ~ 0.3]</label>
+            <br>
+            <!--<label for="bpmSet" style="font-weight: bold;">BPM (empty = auto)</label>
+            <input type="number" name="bpmSet" value="0">
+            <label style="color: #8008;">Give correct BPM to get better result</label>
+            <br>-->
+            <label for="linearBool" style="font-weight: bold;">Linear</label>
+            <input type="checkbox" name="linearBool" checked>
+            <label style="color: #8008;">Make linear map</label>
+        </form>
+    </fieldset>
+    <fieldset style="min-height: 80vh; width: 90vw;">
+        <legend style="font-size: 2em; font-weight: bold; user-select: none;">Output</legend>
+        <pre id="mapOutput" style="line-break: anywhere;">Please wait, it takes ~30sec<br>Ctrl + A, Ctrl + C to copy map</pre>
+    </fieldset>
+</body>
+</html>
