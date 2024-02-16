@@ -1,6 +1,15 @@
-Force majeure:
-     Article 117 of the Contract Law stipulates that if the contract cannot be performed due to force majeure, the liability shall be partially or fully exempted according to the impact of force majeure, unless otherwise provided by law. If force majeure occurs after the parties delay performance, they cannot be exempted from liability. For the purposes of this Law, the term "force majeure" refers to objective circumstances that cannot be foreseen, avoided or overcome.
+# Thank you very much for your interest in our website and for visiting. Before you use this website, please read all the terms of this statement carefully.
 
-     The natural nature of the goods themselves and the reasonable wear and tear of the goods: Article 311 of the Contract Law stipulates that the carrier shall be liable for damages for the damage or loss of the goods during transportation, but the carrier shall not be liable for damages if it proves that the damage or loss of the goods is caused by force majeure, the natural nature of the goods themselves or reasonable wear and tear, and the fault of the shipper or consignee.
+     1. Some of the information on this site comes from the Internet, resources are for reference only, if there is any infringement of your rights and interests, please contact us immediately! We will remove it in time.
 
-     Fault of the creditor: Article 311 and Article 370 of the Contract Law stipulate that if the depositary delivered by the depositor is defective or special custody measures need to be taken according to the nature of the depositary, the depositor shall inform the depositor of the relevant circumstances. If the depositor fails to inform the depositor, resulting in the loss of the deposited goods, the custodian shall not be liable for damages; If the custodian suffers losses as a result, the depositor shall be liable for damages unless the custodian knew or should have known and failed to take remedial measures.
+     2. This site does not guarantee the accuracy, security and completeness of the content of the website; Please check for viruses by yourself, and this site is not responsible for any kind of loss or harm caused to yourself and others by using these resources.
+
+     3. For issues not covered by this statement, please refer to the relevant national laws and regulations, and in the event of a conflict between this statement and national laws and regulations, the national laws and regulations shall prevail.
+
+     4. The content of this site comes from the Internet, the copyright of materials and pictures belongs to the original author, and the materials reproduced on this site are only for everyone to enjoy and share, and should not be used for commercial purposes.
+
+     If your legitimate rights and interests are infringed, please contact us in time, and we will delete the relevant content as soon as possible!
+
+     5. We respect copyright and are committed to protecting copyright, if you are the original author, please contact the editor (gaoyuze6916@163.com) of this site, we will mark your article, thank you for sharing
+
+     6. The spirit of the Internet: sharing, communication and progress.
